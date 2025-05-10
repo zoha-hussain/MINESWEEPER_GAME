@@ -1,0 +1,3 @@
+﻿  Assembling project.asm...
+project.asm(201): error A2006: undefined symbol : endProc
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Project 22\Debug\project.obj" /I "c:\irvine" /W3 /errorReport:prompt  /Taproject.asm" exited with code 1.
